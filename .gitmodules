@@ -1,0 +1,3 @@
+[submodule "BIM"]
+	path = BIM
+	url = https://github.com/yousufali839203/book-inventory-management.git
